@@ -11,11 +11,11 @@ This repository contains my final dashboard code, README, and a CRUD module from
 ### 2. How do you approach a problem as a computer scientist?  
 *(Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?)*
 
-> My approach is always to break a problem into manageable pieces. For Grazioso Salvare, I read the specs, mapped out the required operations, and thought carefully about how the dashboard should interact with the data. Compared to previous assignments, this project required more focus on user experience and real world usability. In the future, I’ll keep using strategies like data modeling, modular code, and iterative testing to meet client needs.
+> My approach is always to break a problem into manageable pieces. For Grazioso Salvare, I read the specs, mapped out the required operations, and thought carefully about how the dashboard should interact with the data. Compared to previous assignments, this project required more focus on user experience and real world usability. In the future, I’ll keep using strategies like data modeling, modular code, design patterns, automated and iterative testing to meet client needs.
 
 ### 3. What do computer scientists do, and why does it matter?  
 *(How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?)*
 
-> Computer scientists help people and organizations make better decisions by organizing information and building tools that turn data into something useful. For a company like Grazioso Salvare, this means quickly finding the right dogs for rescue, which can make a real difference in their work and in people’s lives.
+> Computer scientists help people and organizations make better decisions by organizing information and building tools that turn data into something useful. For a company like Grazioso Salvare, this means quickly finding the right dogs for rescue, which can make a difference in their work and in people’s lives.
 
 ---
